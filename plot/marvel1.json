@@ -1,0 +1,14 @@
+{"nodes":[
+{"src": 0, "name":"Holiday Greetings","img": "http://localhost:8000/Desktop/plot/cr.png"},{"src": 1, "name":"Users","group":1,"img": "https://github.com/favicon.ico"},
+{"src": 2, "name":"Gender","group":1, "img": "https://github.com/favicon.ico"},
+{"src": 3, "name":"Demographics","group":1, "img": "https://github.com/favicon.ico"},
+{"src": 4, "name":"Interests","group":1, "img": "https://github.com/favicon.ico"},
+{"src": 5, "name":"Artists","group":1, "img": "https://github.com/favicon.ico"}
+],"links":[
+{"source":1,"target":0,"value":50},
+{"source":4,"target":0,"value":8},
+{"source":5,"target":0,"value":8},
+{"source":2,"target":1,"value":8},
+{"source":3,"target":1,"value":8}
+
+]}
