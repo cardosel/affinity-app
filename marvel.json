@@ -5,47 +5,47 @@
                  "name": "Yesss I love it 😂😂 By Cardi B",
                  "hero": "Yesss I love it 😂😂",
                  "link": "https://www.facebook.com/IamCardiB/videos/2005751586349808/",
-                 "img": "http://localhost:8000/Desktop/plot/p1.png",
+                 "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/p1.png",
                  "children": [
                               {
                               "hero": "Users",
-                              "img":  "http://localhost:8000/Desktop/plot/users.png",
+                              "img":  "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/users.png",
                               "size": 40000,
                               "children": [
                                               {
                                            "hero": "Gender",
-                                           "img": "http://localhost:8000/Desktop/plot/gender.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/gender.png",
                                            "size": 20000,
                                            "children": [
                                                            {
                                                         "hero": "Male",
-                                                        "img": "http://localhost:8000/Desktop/plot/cm.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cm.png",
                                                         "value": 20
                                                            },
                                                         {
                                                         "hero": "Female",
-                                                        "img": "http://localhost:8000/Desktop/plot/cf.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cf.png",
                                                         "value": 80
                                                         }
                                                            ]
                                               },
                                            {
                                            "hero": "Demographics",
-                                           "img": "http://localhost:8000/Desktop/plot/demo.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/demo.png",
                                            "children": [
                                                         {
                                                         "hero": "Millennials",
-                                                        "img": "http://localhost:8000/Desktop/plot/cmil.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cmil.png",
                                                         "value": 38
                                                         },
                                                         {
                                                         "hero": "Gen X",
-                                                        "img": "http://localhost:8000/Desktop/plot/cgx.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cgx.png",
                                                         "value": 39
                                                         },
                                                         {
                                                         "hero": "Baby Boomers",
-                                                        "img": "http://localhost:8000/Desktop/plot/cbb.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cbb.png",
                                                         "value": 20
                                                         }
                                                         ]
@@ -54,34 +54,34 @@
                               },
                               {
                               "hero": "Content",
-                              "img":  "http://localhost:8000/Desktop/plot/content.jpg",
+                              "img":  "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/content.jpg",
                               "size": 40000,
                               "children": [
                                            {
                                            "hero": "Sentiments",
-                                           "img": "http://localhost:8000/Desktop/plot/sentiments.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sentiments.png",
                                            "size": 20000,
                                            "children": [
                                                         {
                                                         "hero": "Score",
-                                                        "img": "http://localhost:8000/Desktop/plot/score.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/score.png",
                                                         "children": [
                                                                     {
                                                                      "hero": "Positive",
                                                                      "name" : "0.58",
-                                                                     "img": "http://localhost:8000/Desktop/plot/pos.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/pos.png",
                                                                      "value": 0.58
                                                                     },
                                                                      {
                                                                      "hero": "Negative",
                                                                      "name" : "0.39",
-                                                                     "img": "http://localhost:8000/Desktop/plot/neg.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/neg.png",
                                                                      "value": 0.39
                                                                      },
                                                                      {
                                                                      "hero": "Neutral",
                                                                      "name" : "0.03",
-                                                                     "img": "http://localhost:8000/Desktop/plot/neu.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/neu.png",
                                                                      "value": 0.03
                                                                      }
                                                                      
@@ -89,42 +89,42 @@
                                                         },
                                                         {
                                                         "hero": "Emoji",
-                                                        "img": "http://localhost:8000/Desktop/plot/emoji.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/emoji.jpg",
                                                         "children": [
                                                                      {
                                                                      "hero": "Like",
                                                                      "name" : "0.22",
-                                                                     "img": "http://localhost:8000/Desktop/plot/thumbs-up.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/thumbs-up.png",
                                                                      "value": 0.22
                                                                      },
                                                                      {
                                                                      "hero": "Love",
                                                                      "name" : "0.43",
-                                                                     "img": "http://localhost:8000/Desktop/plot/heart-emoji.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/heart-emoji.png",
                                                                      "value": 0.43
                                                                      },
                                                                      {
                                                                      "hero": "Funny",
                                                                      "name" : "0.11",
-                                                                     "img": "http://localhost:8000/Desktop/plot/hahaemoji.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/hahaemoji.png",
                                                                      "value": 0.11
                                                                      },
                                                                      {
                                                                      "hero": "Wow",
                                                                      "name" : "0.08",
-                                                                     "img": "http://localhost:8000/Desktop/plot/wowemoji.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/wowemoji.png",
                                                                      "value": 0.08
                                                                      },
                                                                      {
                                                                      "hero": "Sad",
                                                                      "name" : "0.06",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sadderemoji.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sadderemoji.png",
                                                                      "value": 0.06
                                                                      },
                                                                      {
                                                                      "hero": "Angry",
                                                                      "name" : "0.1",
-                                                                     "img": "http://localhost:8000/Desktop/plot/angryemo.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/angryemo.png",
                                                                      "value": 0.1
                                                                      }
                                                                      ]
@@ -133,17 +133,17 @@
                                            },
                                            {
                                            "hero": "Topics",
-                                           "img": "http://localhost:8000/Desktop/plot/topics.jpg",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/topics.jpg",
                                            "children": [
                                                         {
                                                         "hero": "Music",
-                                                        "img": "http://localhost:8000/Desktop/plot/music.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/music.jpg",
                                                         "link": "https://www.youtube.com/watch?v=l_lblj8Cq0o",
                                                         "value": "Music",
                                                         "children":[
                                                         {
                                                         "hero": "No Limit - G-Eazy, ft. A$AP Rocky, Cardi B",
-                                                        "img": "http://localhost:8000/Desktop/plot/nolimit.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/nolimit.png",
                                                         "link": "https://open.spotify.com/track/2Xqd0wUttjueBfdcltADOv?si=6OuQ1h3nT7-QsPQq46ShUA"
                                                         }                                                          
 
@@ -151,86 +151,86 @@
                                                         },
                                                         {
                                                         "hero": "Artist",
-                                                        "img": "http://localhost:8000/Desktop/plot/artist.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/artist.jpg",
                                                         "link": "https://www.facebook.com/IamCardiB/",
                                                         "value": "Artist",
                                                         "children":[
                                                         {
                                                         "hero": "G-Eazy",
-                                                        "img": "http://localhost:8000/Desktop/plot/g-eazy.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/g-eazy.png",
                                                         "value": 20,
                                                         "children": [
                                                                      {
                                                                      "hero": "Facebook",
-                                                                     "img": "http://localhost:8000/Desktop/plot/fb.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/fb.png",
                                                                      "link": "https://www.facebook.com/G.Eazy/"
                                                                      },
                                                                      {
                                                                      "hero": "Twitter",
-                                                                     "img": "http://localhost:8000/Desktop/plot/tw.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tw.png",
                                                                      "link": "https://twitter.com/G_Eazy?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
                                                                      },
                                                                      {
                                                                      "hero": "Youtube",
-                                                                     "img": "http://localhost:8000/Desktop/plot/yt.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/yt.png",
                                                                      "link": "https://www.youtube.com/channel/UCBkNpeyvBO2TdPGVC_PsPUA"
                                                                      },
                                                                      {
                                                                      "hero": "Instagram",
-                                                                     "img": "http://localhost:8000/Desktop/plot/ig.jpg",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ig.jpg",
                                                                      "link": "https://www.instagram.com/g_eazy/?hl=en"
                                                                      },
                                                                      {
                                                                      "hero": "Spotify",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sp.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sp.png",
                                                                      "link": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z",
                                                                      "children":[
                                                                                                                                            {
                                                                      "hero": "Songkick",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sk.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sk.png",
                                                                      "link": "https://www.songkick.com/artists/1627069-geazy",
                                                                      "children":[
                                                                         {
                                                                           "hero": "G-Eazy with Lil Uzi Vert, Ty Dolla $ign, P-Lo, and Murda Beatz - Ak-Chin Pavilion, Phoenix",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug3.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug3.png",
                                                                           "link": "https://open.spotify.com/concert/3VYrxD6XjMTLjQewCBnxri?si=2BHA1swhQIWi7cwWr9QlYw"
 
                                                                         },
                                                                         {
                                                                           "hero": "G-EAZY - The Endless Summer Tour - Isleta Amphitheater, Albuquerque",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug4.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug4.png",
                                                                           "link": "https://open.spotify.com/concert/6eqQOLVo0usu9yS12LMjJG?si=FIzfD3bDRxGb286OTOZr3g"                                                                         
 
                                                                         },
 
                                                                         {
                                                                           "hero": "G-Eazy with Ty Dolla $ign and YBN Nahmir - Hard Rock Hotel & Casino, Sioux City",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug6.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug6.png",
                                                                           "link": "https://open.spotify.com/concert/16EOEz1YlzUWpyjby2J9fP?si=XbHfz_mkQP-l_pEcAIrjNg"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "G-EAZY - The Endless Summer Tour - Providence Medical Center Amphitheater, Bonner Springs",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug7.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug7.png",
                                                                           "link": "https://open.spotify.com/concert/0U7fTlMHN7dL2eWpkvblGs?si=qfOAc0muQJeipQ9ibmHnDw"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "G-EAZY - The Endless Summer Tour - Austin360 Amphitheater, Austin",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug9.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug9.png",
                                                                           "link": "https://open.spotify.com/concert/0wRPiOH2svBPPp71nSOkiQ?si=FcBRIWUhTmOx0SV3QLqLBg"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "G-Eazy with Lil Uzi Vert, Ty Dolla $ign, P-Lo, and Murda Beatz - Dos Equis Pavilion, Dallas",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug10.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug10.png",
                                                                           "link": "https://open.spotify.com/concert/0nXwVilPm6bxyB57HTWWsx?si=joEceedvSlWqXiMl1XZ6UQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "G-Eazy with Lil Uzi Vert, Ty Dolla $ign, and P-Lo - Walmart AMP, Rogers",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug11.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug11.png",
                                                                           "link": "https://open.spotify.com/concert/7COfeFo7U4P8zbQS9yu30U?si=6EeiwKgqQh6sXeEtTdNCvQ"                                                                          
                                                                         },  
                                                                         {
                                                                           "hero": "G-EAZY - The Endless Summer Tour - Hollywood Casino Amphitheatre - St. Louis, MO, Maryland Heights",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct18.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct18.png",
                                                                           "link": "https://open.spotify.com/concert/4W3KcMY84ql9wpHgYrAiIa?si=tC24cfwiS7acAMNIff2hSg"                                                                          
                                                                         }                                                                                                                                                                                                                   
 
@@ -249,71 +249,71 @@
 
                                                         {
                                                         "hero": "A$AP Rocky",
-                                                        "img": "http://localhost:8000/Desktop/plot/rocky.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/rocky.png",
                                                         "value": 20,
                                                         "children": [
                                                                      {
                                                                      "hero": "Facebook",
-                                                                     "img": "http://localhost:8000/Desktop/plot/fb.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/fb.png",
                                                                      "link": "https://www.facebook.com/asaprocky/"
                                                                      },
                                                                      {
                                                                      "hero": "Twitter",
-                                                                     "img": "http://localhost:8000/Desktop/plot/tw.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tw.png",
                                                                      "link": "https://twitter.com/asvpxrocky?lang=en"
                                                                      },
                                                                      {
                                                                      "hero": "Youtube",
-                                                                     "img": "http://localhost:8000/Desktop/plot/yt.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/yt.png",
                                                                      "link": "https://www.youtube.com/channel/UCWSwBKgVxJDoW4snq89Z0SQ"
                                                                      },
                                                                      {
                                                                      "hero": "Instagram",
-                                                                     "img": "http://localhost:8000/Desktop/plot/ig.jpg",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ig.jpg",
                                                                      "link": "https://www.instagram.com/asaprocky/?hl=en"
                                                                      },
                                                                      {
                                                                      "hero": "Spotify",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sp.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sp.png",
                                                                      "link": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB",
                                                                      "children":[
                   
                                                                      {
                                                                      "hero": "Songkick",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sk.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sk.png",
                                                                      "link": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB",
                                                                      "children":[
                                                                         {
                                                                           "hero": "Listen Out Melbourne 2018- Catani Gardens, Melbourne",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep22a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep22a.png",
                                                                           "link": "https://open.spotify.com/concert/1ktg3H85yNU6Zg7ZxZF7n6?si=cehdCUoPTGezWcNFVkrV1g"
 
                                                                         },
                                                                         {
                                                                           "hero": "Listen Out Perth 2018 - Hbf Arena, Perth",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep23a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep23a.png",
                                                                           "link": "https://open.spotify.com/concert/4uQrruV6E7eJGSM9xfQxIE?si=BI0RciXmSl-HguBgPbhgpw"                                                                         
 
                                                                         },
 
                                                                         {
                                                                           "hero": "Listen In Auckland 2018 - Spark Arena, Auckland",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep28a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep28a.png",
                                                                           "link": "https://open.spotify.com/concert/4kwo7kiRT4RcrMQIuBJmsS?si=BCqZQK8QRLO8dy7YkFfUIQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Listen Out Sydney 2018 - Brazilian Fields, Sydney",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep29a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep29a.png",
                                                                           "link": "https://open.spotify.com/concert/0Vqmq6MY1lkHYwOmQmt636?si=pcCHaLSKSz2TzAE0j1vp3g"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Listen Out Brisbane 2018 - Victoria Park, Brisbane",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep30a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep30a.png",
                                                                           "link": "https://open.spotify.com/concert/46BHNv5F2R9a1ezKBbgVD9?si=r6Z_BboxTSqobJ00_ExVBQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Treasure Island Music Festival - VIP 2DAY TICKET - Middle Harbor Shoreline Park, Oakland",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct13a.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct13a.png",
                                                                           "link": "https://open.spotify.com/concert/686Zk6BO1PUILjWdDELDEF?si=4KtTauj3Qf6rmQkaIWmxTA"                                                                          
                                                                         }                                                                                                                                                                                                                    
 
@@ -340,22 +340,22 @@
                               {
                               "hero": "Trends",
                               "name": "Trends",
-                              "img":  "http://localhost:8000/Desktop/plot/trends.jpg",
+                              "img":  "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/trends.jpg",
                               "size": 40000,
                               "children": [
                                            {
                                            "hero": "Facebook",
-                                           "img": "http://localhost:8000/Desktop/plot/fb.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/fb.png",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['Holiday Greetings', '#MotorSport', 'Cricket - Rohit Sharma', 'Wild Fire - CA', 'Fashion']",
                                                         "name": "['Holiday Greetings', '#MotorSport', 'Cricket - Rohit Sharma', 'Wild Fire - CA', 'Fashion']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['Hollywood Bowl', 'Ricky Martin', 'Birthday - Christina Aguilera', '#BillBoard']",
                                                         "name": "['Hollywood Bowl', 'Ricky Martin', 'Birthday - Christina Aguilera', '#BillBoard']"
                                                         }
@@ -363,17 +363,17 @@
                                            },
                                            {
                                            "hero": "Twitter",
-                                           "img": "http://localhost:8000/Desktop/plot/tw.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tw.png",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['#WhenWeWereYoung','#FinallyFree', 'Birthday @officialjaden', 'FCC Ajit Pai']",
                                                         "name": "['#WhenWeWereYoung','#FinallyFree', 'Birthday @officialjaden', 'FCC Ajit Pai']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['@bts_bighit', '@Ariana Grande', '#FIFAStadiumDJ', '@DDLovato']",
                                                         "name": "['@bts_bighit', '@Ariana Grande', '#FIFAStadiumDJ', '@DDLovato']"
                                                         }
@@ -381,17 +381,17 @@
                                            },
                                            {
                                            "hero": "Instagram",
-                                           "img": "http://localhost:8000/Desktop/plot/ig.jpg",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ig.jpg",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['#HolidayBaking', 'Travel Blogs', 'Holiday Shopping', 'Food', 'Christmas']",
                                                         "name": "['#HolidayBaking', 'Travel Blogs', 'Holiday Shopping', 'Food', 'Christmas']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['@Sonymysiclatin', 'Bands', 'Icon', 'Fashion Show - Russell Simmons']",
                                                         "name": "['@Sonymysiclatin', 'Bands', 'Icon', 'Fashion Show - Russell Simmons']"
                                                         }
@@ -399,17 +399,17 @@
                                            },
                                            {
                                            "hero": "Youtube",
-                                           "img": "http://localhost:8000/Desktop/plot/yt.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/yt.png",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['Culture', 'Unboxing', 'Style', 'Sports', 'Christmas']",
                                                         "name": "['Culture', 'Unboxing', 'Style', 'Sports', 'Christmas']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['Lyrics', 'Zeppelin', 'Steve Aoki', 'Rafael Casal']",
                                                         "name": "['Lyrics', 'Zeppelin', 'Steve Aoki', 'Rafael Casal']"
                                                         }
@@ -417,17 +417,17 @@
                                            },
                                            {
                                            "hero": "Wikipedia",
-                                           "img": "http://localhost:8000/Desktop/plot/wiki.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/wiki.png",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['Fox News', 'Star Wars', 'Peter Strzok', 'Ajit Pai', 'Wiki Donation']",
                                                         "name": "['Fox News', 'Star Wars', 'Peter Strzok', 'Ajit Pai', 'Wiki Donation']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['Cardi B', 'John Mayer', 'Celebrity Deaths 2017', 'Spanish Artists']",
                                                         "name": "['Cardi B', 'John Mayer', 'Celebrity Deaths 2017', 'Spanish Artists']"
                                                         }
@@ -435,17 +435,17 @@
                                            },
                                            {
                                            "hero": "Google",
-                                           "img": "http://localhost:8000/Desktop/plot/google.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/google.png",
                                            "children": [
                                                         {
                                                         "hero": "General Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/all.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/all.png",
                                                         "value": "['Christmas Day - Festivity', 'Gift', 'Net Neutrality', 'Bitcoin', 'USPS Tracking']",
                                                         "name": "['Christmas Day - Festivity', 'Gift', 'Net Neutrality', 'Bitcoin', 'USPS Tracking']"
                                                         },
                                                         {
                                                         "hero": "Category Trends",
-                                                        "img": "http://localhost:8000/Desktop/plot/category.jpg",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/category.jpg",
                                                         "value": "['Ukulele - Guitar', 'John Mayer', 'Khole Kardashian Baby Bumps', 'Cardi B Leaked Photoes', 'Catt Sadler']",
                                                         "name": "['Ukulele - Guitar', 'John Mayer', 'Khole Kardashian Baby Bumps', 'Cardi B Leaked Photoes', 'Catt Sadler']"
                                                         }
@@ -457,114 +457,114 @@
                               },
                               {
                               "hero": "Artists",
-                              "img":  "http://localhost:8000/Desktop/plot/artist.jpg",
+                              "img":  "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/artist.jpg",
                               "size": 40000,
                               "children": [
                                            {
                                            "hero": "Linked",
-                                           "img": "http://localhost:8000/Desktop/plot/linked.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linked.png",
                                            "size": 20000,
                                            "children": [
                                                         {
                                                         "hero": "Cardi B",
-                                                        "img": "http://localhost:8000/Desktop/plot/cb.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cb.png",
                                                         "value": 20,
                                                         "children": [
                                                                     {
                                                                     "hero": "Linked Content",
-                                                                    "img": "http://localhost:8000/Desktop/plot/linked.png",
+                                                                    "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linked.png",
                                                                     "size": 20000,
                                                                     "children":[
                                                                                   {
                                                                                     "hero": "Cardi B, Bad Bunny & J Balvin - I Like It",
                                                                                     "link": "https://www.youtube.com/watch?v=xTlNMmZKwpA",
-                                                                                    "img": "http://localhost:8000/Desktop/plot/linkedcontent.png"
+                                                                                    "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linkedcontent.png"
 
                                                                                 }
                                                                               ]
                                                                       },
                                                                      {
                                                                      "hero": "Facebook",
-                                                                     "img": "http://localhost:8000/Desktop/plot/fb.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/fb.png",
                                                                      "link": "https://www.facebook.com/IamCardiB/"
                                                                      },
                                                                      {
                                                                      "hero": "Twitter",
-                                                                     "img": "http://localhost:8000/Desktop/plot/tw.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tw.png",
                                                                      "link": "https://twitter.com/iamcardib?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
                                                                      },
                                                                      {
                                                                      "hero": "Youtube",
-                                                                     "img": "http://localhost:8000/Desktop/plot/yt.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/yt.png",
                                                                      "link": "https://www.youtube.com/channel/UCxMAbVFmxKUVGAll0WVGpFw"
                                                                      },
                                                                      {
                                                                      "hero": "Instagram",
-                                                                     "img": "http://localhost:8000/Desktop/plot/ig.jpg",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ig.jpg",
                                                                      "link": "https://www.instagram.com/iamcardib/?hl=en"
                                                                      },
                                                                      {
                                                                      "hero": "Spotify",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sp.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sp.png",
                                                                      "link": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB",
                                                                      "children": [
                                                                    
                                                                      {
                                                                      "hero": "Songkick",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sk.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sk.png",
                                                                      "link": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB",
                                                                      "children":[
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Pepsi Center, Denver",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep7.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep7.png",
                                                                           "link": "https://open.spotify.com/concert/3VYrxD6XjMTLjQewCBnxri?si=2BHA1swhQIWi7cwWr9QlYw"
 
                                                                         },
                                                                         {
                                                                           "hero": "ONE Musicfest Payment Plan - Central Park, Atlanta",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep8.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep8.png",
                                                                           "link": "https://open.spotify.com/concert/2gN8QHnClkx6c1agqq5cy1?si=dMBO265lSrWM0QDaytdYOg"                                                                         
 
                                                                         },
 
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Wells Fargo Center, Philadelphia",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep19.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep19.png",
                                                                           "link": "https://open.spotify.com/concert/5SxvfDE1HPuMTp6UO5jIq4?si=xXa_q-1iQRG5VF4O-vyovg"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Wells Fargo Center, Philadelphia",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep20.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep20.png",
                                                                           "link": "https://open.spotify.com/concert/6b53Z7K85CugU3zAVwyH54?si=veo00qmqQXCivniIF7saMQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Air Canada Centre, Toronto",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep22.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep22.png",
                                                                           "link": "https://open.spotify.com/concert/3i1Hg6MZ47uS4kqSd5IJbT?si=S4G2KhC3TZ-RLquFoKUXAg"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Air Canada Centre, Toronto",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep23.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep23.png",
                                                                           "link": "https://open.spotify.com/concert/2h9KxVbteZYg6S8mzOk23h?si=jiDmqP-dTUuokr2SDmfiog"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - Bridgestone Arena, Nashville",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct7.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct7.png",
                                                                           "link": "https://open.spotify.com/concert/3TvCm0am7s2ECs7nF9bkqA?si=PkCl7Sa9S3mo3HRWntj1Xg"                                                                          
                                                                         },  
                                                                         {
                                                                           "hero": "MUSICFEST 31 2018 - Musicfest El Dorado, El Dorado",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct18.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct18.png",
                                                                           "link": "https://open.spotify.com/concert/4W3KcMY84ql9wpHgYrAiIa?si=tC24cfwiS7acAMNIff2hSg"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - STAPLES Center, Los Angeles",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct23.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct23.png",
                                                                           "link": "https://open.spotify.com/concert/5A7KPYR07zcuqnIN7jtHVG?si=qsYUdk9pRXiv2NmDmAqrYg"                                                                          
                                                                         }, 
                                                                         {
                                                                           "hero": "Bruno Mars with Cardi B - STAPLES Center, Los Angeles",
-                                                                          "img": "http://localhost:8000/Desktop/plot/oct24.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/oct24.png",
                                                                           "link": "https://open.spotify.com/concert/4n3m4uC3fIeFBibSw4IJ26?si=8grkJJoWS_eJhbxDkK3Yig"                                                                          
                                                                         }                                                                                                                                                                                                                      
 
@@ -583,44 +583,44 @@
                                            },
                                            {
                                            "hero": "Top Affinity",
-                                           "img": "http://localhost:8000/Desktop/plot/cross.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cross.png",
                                            "size": 20000,
                                            "children": [
                                                         {
                                                         "hero": "Teyana Taylor",
                                                         "link": "https://www.facebook.com/teyanataylor/",
-                                                        "img": "http://localhost:8000/Desktop/plot/tt.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tt.png"
                                                         },
                                                         {
                                                         "hero": "Sevyn Streeter",
                                                          "link": "https://www.facebook.com/sevynstreeter/",
-                                                        "img": "http://localhost:8000/Desktop/plot/ss.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ss.png"
                                                         },
                                                         {
                                                         "hero": "Remy Ma",
                                                          "link": "https://www.facebook.com/RealRemyMa/",
-                                                        "img": "http://localhost:8000/Desktop/plot/rm.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/rm.png"
                                                         },
                                                         {
                                                         "hero": "Teyana Taylor",
                                                          "link": "https://www.facebook.com/teyanataylor/",
-                                                        "img": "http://localhost:8000/Desktop/plot/tm.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tm.png"
                                                         },
 
                                                         {
                                                         "hero": "J Balvin",
-                                                        "img": "http://localhost:8000/Desktop/plot/jbalvin.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/jbalvin.png",
                                                         "value": 20,
                                                         "children": [
                                                                   {
                                                                     "hero": "Linked Content",
-                                                                    "img": "http://localhost:8000/Desktop/plot/linked.png",
+                                                                    "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linked.png",
                                                                     "size": 20000,
                                                                     "children":[
                                                                                   {
                                                                                     "hero": "Cardi B, Bad Bunny & J Balvin - I Like It",
                                                                                     "link": "https://www.youtube.com/watch?v=xTlNMmZKwpA",
-                                                                                    "img": "http://localhost:8000/Desktop/plot/linkedcontent.png"
+                                                                                    "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linkedcontent.png"
 
                                                                                 }
                                                                               ]
@@ -628,85 +628,85 @@
 
                                                                      {
                                                                      "hero": "Facebook",
-                                                                     "img": "http://localhost:8000/Desktop/plot/fb.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/fb.png",
                                                                      "link": "https://www.facebook.com/JBalvinOficial/"
                                                                      },
                                                                      {
                                                                      "hero": "Twitter",
-                                                                     "img": "http://localhost:8000/Desktop/plot/tw.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/tw.png",
                                                                      "link": "https://twitter.com/JBALVIN?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
                                                                      },
                                                                      {
                                                                      "hero": "Youtube",
-                                                                     "img": "http://localhost:8000/Desktop/plot/yt.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/yt.png",
                                                                      "link": "https://www.youtube.com/channel/UCt-k6JwNWHMXDBGm9IYHdsg"
                                                                      },
                                                                      {
                                                                      "hero": "Instagram",
-                                                                     "img": "http://localhost:8000/Desktop/plot/ig.jpg",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/ig.jpg",
                                                                      "link": "https://www.instagram.com/jbalvin/?hl=en"
                                                                      },
                                                                      {
                                                                      "hero": "Spotify",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sp.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sp.png",
                                                                      "link": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5",
                                                                      "children":[
                                                                                                                                            {
                                                                      "hero": "Songkick",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sk.png",
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sk.png",
                                                                      "link": "https://www.songkick.com/artists/3961961-j-balvin",
                                                                      "children":[
                                                                         {
                                                                           "hero": "J Balvin - Centro de Eventos Autopista Norte, Chía",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug3j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug3j.png",
                                                                           "link": "https://open.spotify.com/concert/2cEzZbkgHsk09mzXCCnlPn?si=9Xjhpsp5Rdqt49RcLbjJWg"
 
                                                                         },
                                                                         {
                                                                           "hero": "Super Concierto de Feria de Las Flores 2018 - Estadio Atanasio Girardot, Medellín",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug4j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug4j.png",
                                                                           "link": "https://open.spotify.com/concert/09HvMUKeC16ujGmY6LyuRM?si=ObvQKvBQSaCVH4Cg2HLoNQ"                                                                         
 
                                                                         },
 
                                                                         {
                                                                           "hero": "MEO SUDOESTE 2018 - Herdade da Casa Branca, Zambujeira do Mar",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug7j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug7j.png",
                                                                           "link": "https://open.spotify.com/concert/2YT2KOVJEvGXzWtNtrYKnq?si=UzuF1Z38R2ii00UJ6TkDrw"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "J Balvin - Estadio de Futbol Municipal Jose Ramos de Tasagaya, Tenerife",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug10j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug10j.png",
                                                                           "link": "https://open.spotify.com/concert/0U7fTlMHN7dL2eWpkvblGs?si=qfOAc0muQJeipQ9ibmHnDw"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "J Balvin - El Paso Isla Bonita, Santa Cruz de la Palma",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug11j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug11j.png",
                                                                           "link": "https://open.spotify.com/concert/64VcK0qyML5Zhix9lKEZ83?si=IIfdAGShRKe3xUcuQhpOsQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "J Balvin - Estadio Municipal El Pozuelo Torremolinos, Malaga",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug12j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug12j.png",
                                                                           "link": "https://open.spotify.com/concert/0nXwVilPm6bxyB57HTWWsx?si=joEceedvSlWqXiMl1XZ6UQ"                                                                          
                                                                         },
                                                                         {
                                                                           "hero": "J Balvin - Estadio Bahía Sur, Cadiz",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug13j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug13j.png",
                                                                           "link": "https://open.spotify.com/concert/2SzDilx3yHjhHUAiImVaFG?si=EocCkZLiSZikNekVqxr4Aw"                                                                          
                                                                         }, 
                                                                          {
                                                                           "hero": "Pure Latino Fest 2018 - Escenario Puerto Sherry, El Puerto de Santa María",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug13j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug13j.png",
                                                                           "link": "https://open.spotify.com/concert/1mO8hjLRNPuAQ1JtNxbaC1?si=1KU6Ez3VS2OuLcXG34hICg"                                                                          
                                                                         }, 
                                                                           {
                                                                           "hero": "Summer Sonic Tokyo 2018 - ZOZO Marine Stadium & Makuhari Beach Park, Tokyo",
-                                                                          "img": "http://localhost:8000/Desktop/plot/aug18j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/aug18j.png",
                                                                           "link": "https://open.spotify.com/concert/4OtyHzbeEfgYRUVw5nLFnl?si=FKRmh-F6TKCkoa9rUArbeQ"                                                                          
                                                                         },                                                                                                                                                  
                                                                         {
                                                                           "hero": "Mau y Ricky with J Balvin, Manuel Turizo and Becky G - Centro de Convenciones Amador, Panama City",
-                                                                          "img": "http://localhost:8000/Desktop/plot/sep15j.png",
+                                                                          "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sep15j.png",
                                                                           "link": "https://open.spotify.com/concert/3yNmzVpxPpC5J3wGqKYLnv?si=_zsQEsPMSKKx9W0mf7LHpw"                                                                          
                                                                         }                                                                                                                                                                                                                   
 
@@ -729,12 +729,12 @@
                               },
                               {
                               "hero": "Affinity",
-                              "img":  "http://localhost:8000/Desktop/plot/cross.png",
+                              "img":  "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cross.png",
                               "size": 40000,
                               "children": [
                                            {
                                            "hero": "Linked",
-                                           "img": "http://localhost:8000/Desktop/plot/linked.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/linked.png",
                                            "size": 20000,
                                            "children": [
                                                         {
@@ -745,29 +745,29 @@
                                            },
                                           {
                                            "hero": "Influencers",
-                                           "img": "http://localhost:8000/Desktop/plot/influ.png",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/influ.png",
                                            "size": 20000,
                                            "children": [
                                                         {
                                                         "hero": "Lauren Conrad",
                                                         "link": "https://www.facebook.com/laurenconrad/",
-                                                        "img": "http://localhost:8000/Desktop/plot/laurcon.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/laurcon.png"
 
                                                         },
                                                         {
                                                         "hero": "Dinner, then Dessert",
                                                         "link": "https://www.facebook.com/DinnerthenDessert/",
-                                                        "img": "http://localhost:8000/Desktop/plot/dindes.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/dindes.png"
                                                         },
                                                         {
                                                         "hero": "Sanya Richards",
                                                         "link": "https://www.facebook.com/sanyarichards/",
-                                                        "img": "http://localhost:8000/Desktop/plot/sanrich.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sanrich.png"
                                                         },
                                                         {
                                                         "hero": "Colin Kaepernick",
                                                         "link": "https://www.facebook.com/kaepernick7/",
-                                                        "img": "http://localhost:8000/Desktop/plot/colkap.png"
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/colkap.png"
                                                         }
 
                                                         ]
@@ -775,46 +775,46 @@
                                            },
                                            {
                                            "hero": "Brands",
-                                           "img": "http://localhost:8000/Desktop/plot/brands.jpg",
+                                           "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/brands.jpg",
                                            "size": 20000,
                                            "children": [
                                                         {
                                                         "hero": "Automotive",
-                                                        "img": "http://localhost:8000/Desktop/plot/auto.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/auto.png",
                                                         "children": [
                                                                      {
                                                                      "hero": "Harley-Davidson",
-                                                                     "img": "http://localhost:8000/Desktop/plot/hd.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/hd.png"
                                                                      },
                                                                      {
                                                                      "hero": "Toyota",
-                                                                     "img": "http://localhost:8000/Desktop/plot/toyo.jpg"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/toyo.jpg"
                                                                      },
                                                                      {
                                                                      "hero": "Honda",
-                                                                     "img": "http://localhost:8000/Desktop/plot/honda.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/honda.png"
                                                                      }
                                                                      ]
                                                         },
                                                         {
                                                         "hero": "CPG",
-                                                        "img": "http://localhost:8000/Desktop/plot/cpg.png",
+                                                        "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/cpg.png",
                                                         "children": [
                                                                      {
                                                                      "hero": "Starbucks",
-                                                                     "img": "http://localhost:8000/Desktop/plot/sb.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/sb.png"
                                                                      },
                                                                      {
                                                                      "hero": "Dutch Bros Coffee",
-                                                                     "img": "http://localhost:8000/Desktop/plot/db.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/db.png"
                                                                      },
                                                                      {
                                                                      "hero": "Pillsbury",
-                                                                     "img": "http://localhost:8000/Desktop/plot/pb.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/pb.png"
                                                                      },
                                                                      {
                                                                      "hero": "Jelly Belly",
-                                                                     "img": "http://localhost:8000/Desktop/plot/jb.png"
+                                                                     "img": "https://raw.githubusercontent.com/cardosel/affinity-app/master/plot/jb.png"
                                                                      }
                                                                      ]
                                                         }
