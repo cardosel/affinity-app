@@ -1,1 +1,1 @@
-### https://cardosel.github.io/shareablee-affinity-app/
+### https://cardosel.github.io/shareablee-dot/
