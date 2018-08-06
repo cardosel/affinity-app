@@ -1,3 +1,3 @@
 # affinity-app
 
-# network of related artists and pages
+### network of related artists and pages
